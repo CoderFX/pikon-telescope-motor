@@ -1,8 +1,8 @@
-/*     Simple Stepper Motor Control Exaple Code
+/*     Stepper Motor Control Exaple Code
  *      
- *  by Dejan Nedelkovski, www.HowToMechatronics.com
+ *  Using NEMA 17
  *  
- */
+*/
 
 /* Enable Input (ENABLE). This input turns on or off all of the
 FET outputs. When set to a logic high, the outputs are disabled.
